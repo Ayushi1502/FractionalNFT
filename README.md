@@ -24,8 +24,7 @@ To democratize digital asset ownership by enabling shared control of NFTs, makin
 
 ## Contract Details
 
-_Contract address, ABI, and deployment timestamp to be added manually._
-
+0xB10f83aA02D11A34aff6b1C185BE0088974761bd
 
 ![image](https://github.com/user-attachments/assets/b123ccf2-1651-48e3-8a65-76bbfa4aaf49)
 
